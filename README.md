@@ -34,9 +34,3 @@ usersoft-incorpareted@inbox.ru or directly to the developer’s email;
 sttipshow@gmail.com
 
 Xion Shell v2.1, Usersoft Inc. 2023-2025 by OpenLicence [OL-004-26082023].
-
-If you found a errors in a shell, please write me in mail:
-GMAIL:  sttipshow@gmail.com
-MAIL.RU:  usersoft-incorparetion@inbox.ru (Yes, i know what 'inc.' writed a incorrect)
-
-With love from Kazakhstan, your developer YG-Deaq17 <3
