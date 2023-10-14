@@ -29,6 +29,10 @@ channel, and go to GitHub, where the versions are in the repository. -Your YG-De
 Discord: https://discord.gg/Nu6kPrsm
 GitHub: https://github.com/YG-Deaq17/Xion-Shell
 
+Login: admin
+Password: sha256
+This for who don't wanna check the code, 'cause before using shell, user must sign in to system.
+
 If you find errors or omissions, contact the publisher:
 usersoft-incorpareted@inbox.ru or directly to the developer’s email;
 sttipshow@gmail.com
