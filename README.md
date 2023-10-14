@@ -1,5 +1,5 @@
 # Xion-Shell
-Xion Shell v1. - Shell for terminal of Windows for your softed using :)
+Xion Shell - Shell for terminal of Windows for your softed using :)
 
 For checking:
 -The shell writed on python version of 3.7.5, but can used and version of 3.7.6 and high up.
