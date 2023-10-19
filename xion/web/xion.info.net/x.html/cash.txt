@@ -1,0 +1,5 @@
+<small>Hello my little Madafucker!</small>
+    <del>Hello my little Madafucker!</del>
+    <ins>Hello my little Madafucker!</ins>
+    <sub>Hello my little Madafucker!</sub>
+    <sup>Hello my little Madafucker!</sup>
