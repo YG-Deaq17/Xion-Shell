@@ -1,0 +1,4 @@
+In new version Python, the mudule "pygame" in Python PIP Module does't worked.
+Comming soon will be released a patch for XionShell. Also will be released XionShell v3.0
+--
+coming soon...
